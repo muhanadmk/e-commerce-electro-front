@@ -41,6 +41,8 @@ testem.log
 .DS_Store
 Thumbs.db
 
+/fontawesome-free-6.2.1-web
+
 .DS_STORE
 
 /dist/
